@@ -41,7 +41,7 @@ This repository contains:
     *   `tags.csv`
 3.  **`README.md`**: This file.
 
-**Edit: The dataset of the program cannot be uploaded as GitHub only supports 25MB per file. Acquire the dataset in this link `https://grouplens.org/datasets/movielens/`
+**Edit: The dataset of the program cannot be uploaded as GitHub only supports 25MB per file. Acquire the dataset in this link `https://grouplens.org/datasets/movielens/`**
 
 ## Usage
 To view and run the movie recommendation system:
